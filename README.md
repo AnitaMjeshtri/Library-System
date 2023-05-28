@@ -17,7 +17,7 @@ This is a school library system project implemented in Java and JavaFX. It suppo
 
 To get started with the project, follow these steps:
 1. Clone the repository
-2. 2. Open the project in your preferred Java IDE.
+2. Open the project in your preferred Java IDE.
 3. Build and run the project.
 
 ## Usage
