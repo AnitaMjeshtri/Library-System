@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AnitaMjeshtri-FinalPJ" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AnitaMjeshtri-FinalPJ" target="17" />
       <module name="Library-System" target="" />
     </bytecodeTargetLevel>
   </component>
