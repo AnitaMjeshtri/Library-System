@@ -45,6 +45,11 @@ public class Application extends javafx.application.Application {
 
     @Override
     public void start(Stage stage){
+
+        if(1==1)
+        {
+
+        }
         LoginView loginView = new LoginView();
         new LoginController(loginView, new MainView(stage), stage);
         Image icon = new Image("file:book-icon-1.png");
