@@ -48,6 +48,8 @@ public class Application extends javafx.application.Application {
 
         if(1==1)
         {
+            System.out.println("empty");
+        }else{
 
         }
         LoginView loginView = new LoginView();
